@@ -1,6 +1,6 @@
 # E-Commerce-Database-management-project
 
-  As a part of our course, I made this project for Database Management Systems (DBMS). This project contains theoretical as well as implementation in SQL.
+I made this project for Database Management Systems (DBMS). This project contains theoretical as well as implementation in SQL.
   
 ### Contents
   •	Project Description
